@@ -1,0 +1,4 @@
+<routes>
+    <vehicle id="car1" type="car" route="north_south" depart="0"/>
+    <vehicle id="car2" type="car" route="east_west" depart="5"/>
+</routes>

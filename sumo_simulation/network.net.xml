@@ -1,0 +1,7 @@
+<net>
+    <junction id="center" type="traffic_light" x="0" y="0"/>
+    <edge id="north" from="north_end" to="center" />
+    <edge id="south" from="south_end" to="center" />
+    <edge id="east" from="east_end" to="center" />
+    <edge id="west" from="west_end" to="center" />
+</net>
