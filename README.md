@@ -2,6 +2,8 @@
 ## Traffic Rule Violation Detection and Notification System https://github.com/pawankushwahh/Traffic-management-and-women-safety.git : Automated detection of traffic rule violations using computer vision.and notifying authority and violator and file e-challan
 ## Women Safety SOS https://github.com/RAVI-RAJPUT-UMATH/Women_Safety : A quick emergency response system for women's safety.
 ## Signal Automation** (This repository): An AI-driven system for optimizing traffic signals based on real-time traffic density.
+## Video Demonstration https://drive.google.com/file/d/1GaEdtEzO_qE81oPrjO9-C9Vlkk_zl1CV/view?usp=sharing 
+
 
 # Intelligent Traffic Signal Automation
 
